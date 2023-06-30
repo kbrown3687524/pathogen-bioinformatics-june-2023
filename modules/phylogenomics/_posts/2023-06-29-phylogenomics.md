@@ -20,7 +20,7 @@ The slides from Prof Alan Christoffels talk on _Introduction to Phylogenomics_
 {% pdf "../uploads/Phylo_intro.pptx.pdf" %}
 
 
-Key topics covered in the presentation:
+### Key topics covered in the presentation:
 
 1. Mechanisms of Evolution.
 
